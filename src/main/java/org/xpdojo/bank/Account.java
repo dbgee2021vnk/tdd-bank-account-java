@@ -2,7 +2,7 @@ package org.xpdojo.bank;
 
 public class Account {
     public int balance;
-    public void deposit(int 1){
+    public void deposit(int i){
         balance+=1;
     }
 }
